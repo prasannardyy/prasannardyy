@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=42&fontAlignY=32&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=M.%20Prasanna%20Kumar%20Reddy&amp;fontSize=42&amp;fontAlignY=32&amp;desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&amp;descAlignY=51&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
 
 </div>
 
@@ -8,15 +8,19 @@
 
 <h3>Welcome to my Digital Space</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&height=45&lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/prasannardyy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/prasannardyy)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/prasannardyy)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:medepatiprasannakumarreddy@gmail.com)
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prasannardyy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/prasannardyy?label=Followers&style=for-the-badge&color=0A66C2&labelColor=black" alt="Followers"/>
+<a href="https://www.linkedin.com/in/prasannardyy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=black" alt="LinkedIn"/></a>
+<a href="https://github.com/prasannardyy"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=black" alt="GitHub"/></a>
+<a href="https://x.com/prasannardyy"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;labelColor=black" alt="Twitter/X"/></a>
+<a href="mailto:medepatiprasannakumarreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=black" alt="Gmail"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=prasannardyy&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/prasannardyy?label=Followers&amp;style=for-the-badge&amp;color=0A66C2&amp;labelColor=black" alt="Followers"/>
 
 </div>
 ---
