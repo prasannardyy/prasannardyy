@@ -1,17 +1,29 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:6B2F6B,100:24243e&height=200&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=42&fontColor=fff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descSize=17&descAlignY=58)
 
+<h3 align="center">Welcome to my Digital Space</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasannardyy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/prasannardyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
-  <a href="https://x.com/prasannardyy"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter/X"/></a>
-  <a href="mailto:medepatiprasannakumarreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/prasannardyy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/prasannardyy">
+    <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:medepatiprasannakumarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/prasannardyy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasannardyy&amp;label=Profile%20Views&amp;color=7C3AED&amp;style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/prasannardyy?label=Followers&amp;style=for-the-badge&amp;color=0A66C2&amp;labelColor=black" alt="Followers"/>
 </p>
 ---
 
