@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=40&fontColor=fff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descSize=15&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=40&fontColor=fff&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I+am+Prasanna;AI+ML+Engineering+Student+at+SRM;Full+Stack+Developer+in+the+Making;Hackathon+Winner+Open+Source+Enthusiast;From+Kurnool+to+Chennai+Chasing+Dreams)](https://github.com/prasannardyy)
+![](https://img.shields.io/badge/AI%20%26%20ML%20Student-%40%20SRM%20University-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/SDE%20Enthusiast-Open%20Source%20Contributor-0A66C2?style=flat-square)
+![](https://img.shields.io/badge/Hackathon%20Winner-EHC%20OpenHack%203rd%20Place-EA4335?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannardyy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy)
