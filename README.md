@@ -1,178 +1,220 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=M.%20Prasanna%20Kumar%20Reddy&amp;fontSize=42&amp;fontAlignY=32&amp;desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&amp;descAlignY=51&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
+# 👋 Hi, I'm M. Prasanna Kumar Reddy
+
+### 🎓 AI & ML Engineering Student | 💻 Aspiring Software Development Engineer | 🚀 Open Source Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+Student+at+SRM+University;Aspiring+Software+Development+Engineer;Passionate+About+AI%2C+ML+and+Full+Stack+Development;Building+Projects+That+Solve+Real+Problems;Always+Learning+and+Growing+🚀" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/prasannardyy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasannardyy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/prasannardyy">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:medepatiprasannakumarreddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+# 🚀 About Me
+
+🎓 I am a **3rd Year B.Tech Computer Science Engineering (AI & ML)** student at **SRM Institute of Science and Technology, Chennai**.
+
+💡 Passionate about building intelligent software solutions, solving real-world problems through technology, and continuously improving my development skills.
+
+🌱 Currently exploring modern software engineering practices, Artificial Intelligence, Machine Learning, and Full Stack Development.
+
+🎯 Looking for:
+
+- Software Development Engineer (SDE) Internships
+- AI/ML Engineering Opportunities
+- Full Stack Development Internships
+- Open Source Contributions
+
+📍 Location: Chennai, India
+
+⚡ Fun Fact:
+
+> **From Kurnool to Chennai, chasing algorithms & dreams 🚀**
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Online KYC Verification System
+
+A secure digital KYC verification platform designed to simplify identity verification and document validation processes.
+
+### Tech Stack
+
+- Java
+- Firebase
+- Authentication Systems
+
+🔗 Repository:
+
+https://github.com/prasannardyy/Winter-Project-2024
+
+---
+
+## 🔁 Palindrome Checker App
+
+A lightweight Android application that checks whether a given string is a palindrome with an intuitive user interface.
+
+### Tech Stack
+
+- Java
+- Android Studio
+
+🔗 Repository:
+
+https://github.com/prasannardyy/PalindroneCheckerApp
+
+---
+
+## 🌟 Flix - Automatic Photo Editing Tool
+
+An intelligent photo editing application developed in Java for automating image enhancement tasks.
+
+### Role
+
+Team Leader
+
+### Tech Stack
+
+- Java
+- Image Processing
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<h3>Welcome to my Digital Space</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasannardyy&show_icons=true&theme=tokyonight"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/prasannardyy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=black" alt="LinkedIn"/></a>
-<a href="https://github.com/prasannardyy"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=black" alt="GitHub"/></a>
-<a href="https://x.com/prasannardyy"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;labelColor=black" alt="Twitter/X"/></a>
-<a href="mailto:medepatiprasannakumarreddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=black" alt="Gmail"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=prasannardyy&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/prasannardyy?label=Followers&amp;style=for-the-badge&amp;color=0A66C2&amp;labelColor=black" alt="Followers"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannardyy&layout=compact&theme=tokyonight"/>
 
 </div>
----
-
-## About Me
-
-I'm a **3rd Year B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Chennai**, with a strong foundation in software engineering, machine learning, and full-stack development. I thrive at the intersection of **intelligent systems and scalable software** -- turning ideas into real-world products.
-
-With hands-on experience in **AI-powered applications, OCR systems, and full-stack development**, I bring both academic depth and practical project experience. I'm driven by the challenge of building technology that **actually matters** -- automating processes, solving algorithmic problems, and contributing to open source.
-
-```yaml
-Name        : M. Prasanna Kumar Reddy
-Location    : Chennai, India
-Education   : B.Tech CSE (AI & ML) @ SRM University  |  CGPA: 8.52
-Status      : Actively seeking SDE Internships & AI/ML Roles
-Fun Fact    : From Kurnool to Chennai, chasing algorithms & dreams
-```
-
-- Currently building AI-powered full-stack applications
-- Learning Deep Learning, LangChain, React.js and System Design
-- Hackathon Winner -- 3rd Place at EHC OpenHack
-- Ask me about Java, Python, DSA, Firebase and OCR Systems
-- medepatiprasannakumarreddy@gmail.com
 
 ---
 
-## Tech Stack
+# 🔥 GitHub Streak
 
-**Programming Languages**
+<div align="center">
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/prasannardyy)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/prasannardyy)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/prasannardyy)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/prasannardyy)
+<img src="https://streak-stats.demolab.com?user=prasannardyy&theme=tokyonight"/>
 
-**Web Development**
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prasannardyy)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prasannardyy)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/prasannardyy)
-[![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/prasannardyy)
-
-**Databases**
-
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/prasannardyy)
-[![Firebase Realtime DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/prasannardyy)
-
-**AI and ML**
-
-[![OCR Systems](https://img.shields.io/badge/OCR%20Systems-4A90D9?style=for-the-badge&logo=google&logoColor=white)](https://github.com/prasannardyy)
-[![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/prasannardyy)
-
-**Tools and Platforms**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prasannardyy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/prasannardyy)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/prasannardyy)
-
-**CS Fundamentals**
-
-[![DSA](https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/prasannardyy)
-[![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://github.com/prasannardyy)
+</div>
 
 ---
 
-## Featured Projects
+# 🏆 Achievements & Certifications
 
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| **Online KYC Verification System** | AI-powered platform for automated document submission and validation using OCR and Firebase | JavaScript, Firebase, AI, OCR | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannardyy/Winter-Project-2024) |
-| **Palindrome Checker App** | Java app to validate strings and numbers as palindromes using efficient string manipulation | Java, DSA, OOP | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannardyy/PalindroneCheckerApp) |
-
-**Online KYC Verification System**
-
-```
-AI-powered document validation and OCR extraction
-Secure Firebase real-time database integration
-Seamless document upload and verification tracking UI
-Automated workflow for KYC compliance
-```
-
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy/Winter-Project-2024)
-
-**Palindrome Checker App**
-
-```
-Validates strings and numbers for palindrome conditions
-Implements string manipulation and logical comparison
-Showcases loops, conditionals and algorithmic thinking
-Clean, well-documented Java code
-```
-
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy/PalindroneCheckerApp)
+| Achievement | Organization |
+|------------|-------------|
+| 🥉 3rd Place - EHC OpenHack Hackathon | SRM University |
+| ☕ Programming in Java | NPTEL |
+| 🧩 Object Oriented Programming | NPTEL |
+| 🤖 Natural Language Processing | Infosys Springboard |
 
 ---
 
-## GitHub Stats
+# 📚 Currently Learning
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannardyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff)](https://github.com/prasannardyy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=prasannardyy&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://github.com/prasannardyy)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannardyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8)](https://github.com/prasannardyy)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=prasannardyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/prasannardyy)
-
----
-
-## Achievements and Certifications
-
-| Achievement | Issuer | Type |
-|-------------|--------|------|
-| 3rd Place -- EHC OpenHack Hackathon | EHC | Hackathon |
-| Programming in Java | NPTEL | Certification |
-| Java OOP Design and Programming | NPTEL | Certification |
-| Natural Language Processing (NLP) | Infosys Springboard | Certification |
+- 🧠 Deep Learning & Neural Networks
+- ⚛️ React.js
+- 🔗 LangChain & LLM Applications
+- 🏗️ System Design Fundamentals
+- 🚀 Advanced DSA for Product Companies
 
 ---
 
-## Currently Learning
+# 🤝 Open To Collaborate On
 
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/prasannardyy)
-[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/prasannardyy)
-[![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://github.com/prasannardyy)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/prasannardyy)
-[![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/prasannardyy)
-[![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/prasannardyy)
+✅ Open Source Projects
 
----
+✅ AI & Machine Learning Projects
 
-## Open to Collaborate On
+✅ Software Development Projects
 
-- SDE Internships at product-based companies
-- AI/ML Engineering roles and research projects
-- Full Stack Development internships
-- Open Source contributions
-- Hackathons and competitive coding
-- Startup ideas with real-world impact
+✅ Research Projects
+
+✅ Startup Ideas
 
 ---
 
-## Connect With Me
+# 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannardyy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prasannardyy)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medepatiprasannakumarreddy@gmail.com)
+<p align="center">
+
+<a href="mailto:medepatiprasannakumarreddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasannardyy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prasannardyy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/prasannardyy">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-"Code is not just syntax -- it's the language of ideas brought to life."
+<div align="center">
 
--- M. Prasanna Kumar Reddy
+### 💡 "Success is built one commit at a time."
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+⭐ If you like my work, consider following me and checking out my repositories.
+
+</div>
