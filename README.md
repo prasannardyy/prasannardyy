@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=40&fontColor=fff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descSize=15&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Prasanna;AI+%26+ML+Engineering+Student+%40+SRM;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+Open+Source+Enthusiast;From+Kurnool+to+Chennai%2C+Chasing+Dreams)](https://github.com/prasannardyy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I+am+Prasanna;AI+ML+Engineering+Student+at+SRM;Full+Stack+Developer+in+the+Making;Hackathon+Winner+Open+Source+Enthusiast;From+Kurnool+to+Chennai+Chasing+Dreams)](https://github.com/prasannardyy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannardyy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannardyy)
