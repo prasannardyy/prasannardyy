@@ -33,7 +33,7 @@ With hands-on experience in **AI-powered applications, OCR systems, and full-sta
 ```yaml
 🧑‍💻 Name        : M. Prasanna Kumar Reddy
 📍 Location    : Chennai, India
-🎓 Education   : B.Tech CSE (AI & ML) @ SRM University  |  CGPA: 8.52
+🎓 Education   : B.Tech CSE (AI & ML) @ SRM University  |  CGPA: 8.74
 🔎 Status      : Actively seeking SDE Internships & AI/ML Roles
 ⚡ Fun Fact    : From Kurnool to Chennai, chasing algorithms & dreams 🚀
 ```
