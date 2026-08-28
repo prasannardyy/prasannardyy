@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,19,21&height=220&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=18&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,19,21&height=220&section=header&text=M.%20Prasanna%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20SDE%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=18&animation=twinkling) 
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=45&lines=AI+%26+ML+Student+%40+SRM+University;Full+Stack+Developer+in+the+Making;Hackathon+Winner+%7C+EHC+OpenHack+3rd+Place;From+Kurnool+to+Chennai+Chasing+Dreams;Building+Intelligent+Systems+That+Matter)](https://git.io/typing-svg)
