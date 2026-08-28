@@ -30,7 +30,7 @@ I'm a **3rd Year B.Tech CSE (AI & ML)** student at **SRM Institute of Science an
 
 With hands-on experience in **AI-powered applications, OCR systems, and full-stack development**, I bring both academic depth and practical project experience. I'm driven by the challenge of building technology that **actually matters** — automating processes, solving algorithmic problems, and contributing to open source.
 
-```yaml
+```yaml 
 🧑‍💻 Name        : M. Prasanna Kumar Reddy
 📍 Location    : Chennai, India
 🎓 Education   : B.Tech CSE (AI & ML) @ SRM University  |  CGPA: 8.74
