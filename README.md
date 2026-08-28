@@ -48,7 +48,7 @@ With hands-on experience in **AI-powered applications, OCR systems, and full-sta
 
 ## 🛠️ Tech Stack
 
-#### 💻 Programming Languages
+#### 💻 Programming Languages 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/prasannardyy)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/prasannardyy)
