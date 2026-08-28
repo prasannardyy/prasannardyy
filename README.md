@@ -94,7 +94,7 @@ With hands-on experience in **AI-powered applications, OCR systems, and full-sta
 | 🔁 | **Palindrome Checker App** | Java app to validate strings and numbers as palindromes using efficient string manipulation | `Java` `DSA` `OOP` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannardyy/PalindroneCheckerApp) |
 
 <details>
-<summary>🔐 <b>Online KYC Verification System</b> — Click to expand</summary>
+<summary>🔐 <b>Online KYC Verification System</b> — Click to expand</summary> 
 <br/>
 
 > AI-powered document validation and OCR extraction  
